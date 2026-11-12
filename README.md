@@ -1,1 +1,1 @@
-# PPIC Git Practice - main version
+# ppic-git-practice
